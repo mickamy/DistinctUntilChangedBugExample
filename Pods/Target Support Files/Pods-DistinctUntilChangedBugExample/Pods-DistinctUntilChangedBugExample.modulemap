@@ -1,0 +1,6 @@
+framework module Pods_DistinctUntilChangedBugExample {
+  umbrella header "Pods-DistinctUntilChangedBugExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
